@@ -1,13 +1,9 @@
 # ECMWF
 
-Scripts for downloading data from the ECMWF Data Store (ECDS).  
-https://ecds.ecmwf.int
-
-According to the [CDSAPI setup page](https://ecds.ecmwf.int/how-to-api),
-an alternative to the `cdsapi` package is the new and more advanced
-[ecmwf-datastores-client](https://ecmwf.github.io/ecmwf-datastores-client).
-
+Scripts for downloading data from the [ECMWF Data Store](https://ecds.ecmwf.int) (ECDS).  
 
 ## TIGGE
 
-The TIGGE data page is at: https://ecds.ecmwf.int/datasets/tigge-forecasts
+TIGGE forecast data can be downloaded from: https://ecds.ecmwf.int/datasets/tigge-forecasts
+
+TIGGE tropical cyclone tracks can be downloaded from: https://doi.org/10.5065/D6GH9GSZ
